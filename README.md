@@ -22,7 +22,7 @@
 
 
 
-# After Running the Project on Home Page AI Chat Web APP.
+# After Running the Project on Home Page Explore the AI Chat Web APP.
 
 
 
